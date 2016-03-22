@@ -27,6 +27,25 @@ Contoh apabila akan transfer 100rb, maka nominal transfer : 100001
 (Ini hanya contoh, berapapun dana yg didonasikan, baik 10rb, 20rb, 50rb, 200rb atau 2jt ; sangat berarti bagi terselenggaranya acara ini) ‪#‎piss‬
 </p>
 
+<h3>Lokasi Pengajian</h3>
+<p>Buat yg naik kendaraan pribadi silahkan ikuti petunjuk google maps ini.
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.6628004308986!2d106.75319821476958!3d-6.307955495434738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xceb231f0304094b1!2sUIN+Syarif+Hidayatullah+Jakarta!5e0!3m2!1sen!2sus!4v1458689879729" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
+
+<p>
+Buat yg Naik umum, dari posisi masing2 silahkan menuju Terminal Lebak Bulus, dari sana naik angkot D01 / D02 yg ke arah UIN Jakarta.
+Atau utk yg lebih detail cek link ini :
+<a href="http://citrodunia.blogspot.co.id/2013/05/rute-kendaraan-angkutan-umum-kampus-uin.html" target="_blank">http://citrodunia.blogspot.co.id/2013/05/rute-kendaraan-angkutan-umum-kampus-uin.html</a>
+</p>
+
+<p>
+Nb : <br/>
+Diharapkan jam 8 para alumni sudah sampai. karena acara ini diadakan di lingkungan kampus, sehingga acara dapat dimulai sesegera mungkin dan selesai sebelum waktu sholat dzuhur.</P>
+
+<p>
+Dan juga dikarenakan padatnya jalur akses UIN, diharapkan para alumni berangkat dari posisi masing2 sepagi mungkin.
+</p>
+
 Terima kasih atas perhatiannya, <br>
 Wassalam,<br>
 Salam TO :)<br>
