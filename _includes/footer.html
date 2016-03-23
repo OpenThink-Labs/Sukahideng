@@ -9,6 +9,7 @@
         <ul class="contact-list">
           <li>{{ site.title }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li><a href="{{ site.formulir_pendaftaran }}" target="_blank">Formulir Pendaftaran Alumni</a></li>
         </ul>
       </div>
 
@@ -29,12 +30,12 @@
           <li>
             {% include icon-instagram.html username=site.instagram_username %}
           </li>
-          {% endif %}          
+          {% endif %}
           {% if site.facebook_username %}
           <li>
             {% include icon-facebook.html username=site.facebook_username %}
           </li>
-          {% endif %}                    
+          {% endif %}
         </ul>
       </div>
 
